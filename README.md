@@ -1,4 +1,4 @@
-# Banking Management System
+# Banking-Management-System
 A Banking system that illustrates a working model of a admin side of a banking
 ## Tool used
 * Visual Studio 2015
